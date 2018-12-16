@@ -1,0 +1,19 @@
+﻿  Error.cpp
+e:\cursach\nea-2018\nea-2018\nea-2018\error.cpp(28): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ERROR_ENTRY"
+e:\cursach\nea-2018\nea-2018\nea-2018\error.cpp(31): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "ERROR_ENTRY"
+  FST.cpp
+e:\cursach\nea-2018\nea-2018\nea-2018\fst.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  Generation.cpp
+  GRB.cpp
+  In.cpp
+  IT.cpp
+  LexAnalize.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+e:\cursach\nea-2018\nea-2018\nea-2018\mfst.cpp(220): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  NEA-2018.cpp
+  Parm.cpp
+  PN.cpp
+  Создание кода...
+  NEA-2018.vcxproj -> E:\Cursach\NEA-2018\NEA-2018\NEA-2018\Debug\NEA-2018.exe

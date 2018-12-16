@@ -1,0 +1,108 @@
+integer function int(integer a, integer b)
+{
+
+enroll integer c;
+
+c = 5*(a+b)*12;
+
+return c;
+
+}
+
+
+string function str(string e)
+{
+
+enroll string d;
+
+d = e;
+
+output(d);
+
+return d;
+
+}
+
+
+integer function qwerty()
+{
+
+enroll integer c;
+
+c = 1;
+
+return c; 
+
+}
+
+
+bool function boolean(bool a)
+{
+return a$true; 
+
+}
+
+
+ 
+main
+{
+
+STD;
+enroll integer g;
+
+enroll integer j;
+
+enroll integer s;
+
+enroll integer r;
+enroll string l;
+
+enroll string p;
+enroll bool bf;
+enroll string probel;
+enroll bool bl;
+enroll bool bg;
+probel = ' ';
+g = 3;
+bf = false;
+	output(bf);
+bg = true;
+l =' Ctrl' ;
+bf = bg;
+output(concat(p,l,probel));
+bl = isempty(p);
+output(' ');
+output(bl);
+output(' ');
+output(boolean(bg));
+output(probel);
+output(length('aaa'));
+g = 5;
+r = 2;
+
+output(r);
+iftrue(!bg){
+output('andrew suck');
+}
+iffalse{
+output('i suck');
+}
+j = int(g, r);
+
+g = 5+int(j, r);
+p = str(probel);
+p = str(probel);
+
+output(j);
+
+
+p = str(l) ;
+
+
+g = qwerty() + g + 8;
+
+p = str(probel);
+
+output(g);
+
+}
